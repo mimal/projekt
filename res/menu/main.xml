@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hmkcode="http://schemas.android.com/apk/res-auto" >
+   
+    
+     <item 
+        android:id="@+id/menu_next_image_detection_filter"
+        android:orderInCategory="100"
+        hmkcode:showAsAction="always"
+        android:title="@string/menu_next_image_detection_filter"  
+      />
+        
+    <item 
+        android:id="@+id/menu_change_fps"
+        android:orderInCategory="100"
+        hmkcode:showAsAction="always"
+        android:title="@string/menu_change_fps"        
+      />
+    
+    
+    
+    
+</menu>
